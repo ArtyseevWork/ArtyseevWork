@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left"> врвую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 .<br>- 📚 Завершил курсы м!<br>- ⚡ ЯвляюсьразработкПрактикум.</p>
+<p align="left">I have some experience in development and ready to create high-quality and reliable applications that will be useful for both users
+and businesses.<br><br>- 🔭 Участвовал в бассейне Школы 21 .<br>- 📚 Завершил курсы м!<br>- ⚡ ЯвляюсьразработкПрактикум.</p>
 
 ###
 
