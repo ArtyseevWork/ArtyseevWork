@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left"> врвую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 .<br>- 📚 Завершил курсы м!<br>- ⚡ Являюсьразработки Яндекс Практикум.</p>
+<p align="left"> врвую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 .<br>- 📚 Завершил курсы м!<br>- ⚡ ЯвляюсьразработкПрактикум.</p>
 
 #
 ###
@@ -69,9 +69,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
