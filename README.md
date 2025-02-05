@@ -35,8 +35,7 @@ and businesses.<br><br>💻 8 years in IT<br>📱 5 years of mobile development 
 
 ###
 
-<div align="left">
- ## 🛠️ Технологии и инструменты
+## 🛠️ Технологии и инструменты
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
@@ -50,6 +49,8 @@ and businesses.<br><br>💻 8 years in IT<br>📱 5 years of mobile development 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)
+<div align="left">
+ 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
