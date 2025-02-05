@@ -27,7 +27,7 @@
 ###
 
 <p align="left">I have some experience in development and ready to create high-quality and reliable applications that will be useful for both users
-and businesses.<br><br>- 🔭 Участвовал в бассейне Школы 21 .<br>- 📚 Завершил курсы м!<br>- ⚡ ЯвляюсьразработкПрактикум.</p>
+and businesses.<br><br>💻 8 years in IT<br>📱 5 years of mobile development experience.<br>🔄 2 years of cross-platform development</p>
 
 ###
 
