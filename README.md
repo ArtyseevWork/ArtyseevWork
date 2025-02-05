@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/loader.webp"  />
+  <img height="300" width="600" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/devices.gif"  />
 </div>
 
 ###
