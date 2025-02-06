@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">Hi, my name is Artem!</h1>
+<h1 align="center">Hello, my name is Artem, and I am a Flutter developer!</h1>
 
 ###
 
@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
 </div>
+У меня есть опыт в системном администрировании, бек-енд и базах данных. Последние 5 лет занимаюсь разработкой мобильных приложений. Последние 2 года работаю над кроссплатформенной разработкрой.  Ниже вы можете увидеть некоторые примеры моих работ. 
+
 
 
 ###
@@ -24,9 +26,19 @@
 <h3 align="left">👩‍💻 About me:</h3>
 
 ###
+<p>I have experience in system administration, backend development, and databases. For the past five years, I have been developing mobile applications, and for the last two years, I have been focusing on cross-platform development.</p>
 
-<p align="left">I have some experience in development and ready to create high-quality and reliable applications that will be useful for both users
-and businesses.<br><br>💻 8 years in IT<br>📱 5 years of mobile development experience.<br>🔄 2 years of cross-platform development</p>
+<h2>My Strengths:</h2>
+<ul>
+  <li>✅ Experience in publishing applications on <b>Google Play</b> and <b>App Store</b></li>
+  <li>✅ Well-structured architecture (using <b>Clean Architecture, BLoC, Riverpod</b>)</li>
+  <li>✅ Monetization and analytics setup (<b>Adapty, Google Ads, Firebase Analytics</b>)</li>
+  <li>✅ Application localization, including support for Arabic languages</li>
+</ul>
+
+<p align="left">I am ready to create high-quality and reliable applications that will be useful for both users
+and businesses.<br>
+<h2>Below, you can see some examples of my work:</h2>
 
 ###
 
@@ -46,11 +58,18 @@ and businesses.<br><br>💻 8 years in IT<br>📱 5 years of mobile development 
 ![Adapty](https://img.shields.io/badge/Adapty-007AFF?logo=paypal&logoColor=white)
 ![AdMob](https://img.shields.io/badge/AdMob-EF233C?logo=google-ads&logoColor=white)
 
-
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artyseevwork&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+  <p>Due to various circumstances, not all of my projects are available. Over the years, I have developed various applications, including:</p>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>📸 <strong>Photo editors</strong></li>
+    <li>🔒 <strong>VPN service</strong></li>
+    <li>🧑‍🏫 <strong>Language learning platform</strong></li>
+    <li>🏋️‍♂️ <strong>Fitness app</strong></li>
+    <li>🤖 <strong>AI technologies integration for image generation</strong></li>
+    <li>📊 <strong>Business management system tools</strong></li>
+  </ul>
+  <p>You can see some examples of my work below, and in the pinned repositories, you will find the source code and detailed descriptions. I’d be happy to provide more details if needed.</p>
 </div>
 
 ###
@@ -60,5 +79,4 @@ and businesses.<br><br>💻 8 years in IT<br>📱 5 years of mobile development 
   <img height="194" width="346" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/photoeditor.gif"  />
   <img height="194" width="346" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/vpn.gif"  />
   <img height="194" width="346" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/chat.gif"  />
-
 </div>
