@@ -17,8 +17,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
 </div>
-У меня есть опыт в системном администрировании, бек-енд и базах данных. Последние 5 лет занимаюсь разработкой мобильных приложений. Последние 2 года работаю над кроссплатформенной разработкрой.  Ниже вы можете увидеть некоторые примеры моих работ. 
-
 
 
 ###
