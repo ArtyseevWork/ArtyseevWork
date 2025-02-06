@@ -24,7 +24,8 @@
 <h3 align="left">👩‍💻 About me:</h3>
 
 ###
-<p>I have experience in system administration, backend development, and databases. For the past five years, I have been developing mobile applications, and for the last two years, I have been focusing on cross-platform development.</p>
+<p>For the past five years, I have been developing mobile applications, and for the last two years, I have been focusing on cross-platform development.</p>
+<p>Before transitioning to mobile development, I gained valuable experience in system administration, backend development, and working with databases. This background has provided me with a strong understanding of the full development stack, allowing me to build robust and scalable applications.</p>
 
 <h2>My Strengths:</h2>
 <ul>
