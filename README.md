@@ -1,7 +1,6 @@
-<br clear="both">
 
 <div align="center">
-  <img height="300" width="400" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/devices.gif"  />
+  <img height="300" width="300" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/devices.gif"  />
 </div>
 
 ###
@@ -55,3 +54,11 @@ and businesses.<br><br>💻 8 years in IT<br>📱 5 years of mobile development 
 </div>
 
 ###
+
+<div align="center">
+  <img height="300" width="300" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/AoK.gif"  />
+  <img height="300" width="300" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/photoeditor.gif"  />
+  <img height="300" width="300" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/vpn.gif"  />
+  <img height="300" width="300" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/chat.gif"  />
+
+</div>
