@@ -11,11 +11,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@tehno.maffffffniak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="mailto:artyseevwork@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
-  <a href="https://t.me/tehnomafffffffniak07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https://www.linkedin.com/in/artem-asyeyev-5b23a1161/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
 </div>
 
@@ -34,48 +34,18 @@ and businesses.<br><br>💻 8 years in IT<br>📱 5 years of mobile development 
 <h3 align="left">🛠 Technologies:</h3>
 
 ###
-
-## 🛠️ Технологии и инструменты
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)
-<div align="left">
- 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   Моя статистика :</h3>
-
-###
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-232F3E?logo=hexo&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
+![Adapty](https://img.shields.io/badge/Adapty-007AFF?logo=paypal&logoColor=white)
+![AdMob](https://img.shields.io/badge/AdMob-EF233C?logo=google-ads&logoColor=white)
 
 
 ###
