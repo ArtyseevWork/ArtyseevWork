@@ -13,7 +13,7 @@
   <a href="mailto:artyseevwork@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/artem-asyeyev-5b23a1161/" target="_blank">
+  <a href="https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D0%B5%D0%BC-%D0%B0%D1%81%D1%94%D1%94%D0%B2-5b23a1161/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
 </div>
