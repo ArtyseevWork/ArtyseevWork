@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">Hello, my name is Artem, and I am a Flutter developer!</h1>
+<h1 align="center">Flutter Developer | Cross-platform Mobile Applications</h1>
 
 ###
 
@@ -24,15 +24,16 @@
 <h3 align="left">👩‍💻 About me:</h3>
 
 ###
-<p>For the past five years, I have been developing mobile applications, and for the last two years, I have been focusing on cross-platform development.</p>
-<p>Before transitioning to mobile development, I gained valuable experience in system administration, backend development, and working with databases. This background has provided me with a strong understanding of the full development stack, allowing me to build robust and scalable applications.</p>
+<p>Flutter Developer with 3+ years of commercial experience in building and maintaining cross-platform mobile applications for iOS and Android.</p>
+<p>I focus on production-ready solutions: clean architecture, API integration, subscriptions, analytics, and full App Store / Google Play release cycle.</p>
+<p>Background in backend development and databases allows me to work effectively with complex systems and build reliable, scalable mobile apps.</p>
 
 <h2>My Strengths:</h2>
 <ul>
-  <li>✅ Experience in publishing applications on <b>Google Play</b> and <b>App Store</b></li>
-  <li>✅ Well-structured architecture (using <b>Clean Architecture, BLoC, Riverpod</b>)</li>
-  <li>✅ Monetization and analytics setup (<b>Adapty, Google Ads, Firebase Analytics</b>)</li>
-  <li>✅ Application localization, including support for Arabic languages</li>
+  <li>✅ App Store and Google Play publishing experience</li>
+  <li>✅ Clean architecture (Clean Architecture, BLoC, Riverpod)</li>
+  <li>✅ Monetization and analytics (Adapty, AdMob, Firebase Analytics)</li>
+  <li>✅ Localization, including RTL and Arabic languages</li>
 </ul>
 
 <p align="left">I am ready to create high-quality and reliable applications that will be useful for both users
@@ -64,8 +65,8 @@ and businesses.<br>
     <li>📸 <strong>Photo editors</strong></li>
     <li>🔒 <strong>VPN service</strong></li>
     <li>🧑‍🏫 <strong>Language learning platform</strong></li>
-    <li>🏋️‍♂️ <strong>Fitness app</strong></li>
-    <li>🤖 <strong>AI technologies integration for image generation</strong></li>
+    <li>🏋️‍♂️ <strong>Fitness apps</strong></li>
+    <li>🤖 <strong>AI technologies integration for image generation and chats</strong></li>
     <li>📊 <strong>Business management system tools</strong></li>
   </ul>
   <p>You can see some examples of my work below, and in the pinned repositories, you will find the source code and detailed descriptions. I’d be happy to provide more details if needed.</p>
